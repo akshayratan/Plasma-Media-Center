@@ -1,0 +1,19 @@
+
+-- The following OPTIONAL packages have been found:
+
+ * X11
+ * Threads
+ * Perl
+
+-- The following REQUIRED packages have been found:
+
+ * Qt4
+ * Automoc4
+ * Phonon (required version >= 4.3.80)
+ * SharedDesktopOntologies
+ * Soprano
+ * Nepomuk
+ * NepomukCore
+ * Taglib
+ * KDE4Internal
+ * KDE4
